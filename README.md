@@ -1,6 +1,6 @@
 # RAIP: Robust and accurate inference of rare cell type proportions from bulk gene expres-sion or DNA methylation data
 
-![Image](https://github.com/HanwenXuTHU/RARD/blob/master/img/decon.png)
+![Image](https://github.com/WangLabTHU/RAIP/blob/main/img/decon.png)
 
 ## Section 1: System Requirements
 &emsp; RAIP was implemented using python. It can be installed in Windows, Linux as well as MAC OS. RAIP requires python version >= 3 and all the dependent packages will be installed using pip.
