@@ -18,7 +18,7 @@ pip install RAIP
 
 ### Section 3.1: Input Data Preparation
 
-&emsp; We provide demon [dataset](https://github.com/HanwenXuTHU/RARD/tree/master/demo_data) generated from single cell mouse RNA-seq.
+&emsp; We provide demon [dataset](https://github.com/WangLabTHU/RAIP/tree/main/demo_data) generated from single cell mouse RNA-seq.
 
 &emsp; Note: RAIP is not sensitive to gene identifier, but the user should restrict gene identifier to a specific one.
 
