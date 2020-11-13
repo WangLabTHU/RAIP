@@ -17,7 +17,7 @@ import statsmodels.api as sm
 
 def DeconRAIP(reference0, markerData0, unknown=False):
     """
-    DeconCCN: a cell subtype deconvolution algorithm based on component-wise condition number
+    DeconRAIP: a cell subtype deconvolution algorithm based on component-wise condition number
     :param reference0: an N×K matrix, which denotes the external reference panel, should be ndarray.
     :param markerData0: N × M matrix, which denotes the mixture data, should be ndarray
     :param unknown: whether or not contain the unknown content
